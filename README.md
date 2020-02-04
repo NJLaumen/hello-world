@@ -1,2 +1,2 @@
 # hello-world
-second assignment for scientific computing
+Bladie bla dikke onzin
